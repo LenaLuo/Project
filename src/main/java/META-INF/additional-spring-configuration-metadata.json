@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "cup-size",
+    "type": "java.lang.String",
+    "description": "A description for 'cup-size'"
+  },
+  {
+    "name": "age",
+    "type": "java.lang.String",
+    "description": "A description for 'age'"
+  },
+  {
+    "name": "content",
+    "type": "java.lang.String",
+    "description": "A description for 'content'"
+  },
+  {
+    "name": "girl.cup-size",
+    "type": "java.lang.String",
+    "description": "A description for 'girl.cup-size'"
+  },
+  {
+    "name": "girl.age",
+    "type": "java.lang.String",
+    "description": "A description for 'girl.age'"
+  },
+  {
+    "name": "spring.jpa.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.dialect'"
+  },
+  {
+    "name": "spring.entitymanager.packages-to-scan",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.entitymanager.packages-to-scan'"
+  }
+]}

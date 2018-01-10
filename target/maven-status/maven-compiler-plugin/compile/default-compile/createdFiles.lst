@@ -1,0 +1,14 @@
+com\website\repository\GirlRepository.class
+com\website\WebsiteApplication.class
+com\website\exception\GirlException.class
+com\website\controller\HelloController.class
+com\website\domain\Girl.class
+com\website\handle\ExceptionHandle.class
+com\website\properties\GirlProperties.class
+test\project\App.class
+com\website\service\GirlService.class
+com\website\aspect\HttpAspect.class
+com\website\service\utils\ResultUtil.class
+com\website\controller\GirlController.class
+com\website\domain\Result.class
+com\website\enums\ResultEnum.class
